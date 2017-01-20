@@ -1,4 +1,4 @@
 .idea/
 *.iml
 target/
-src/main/js/com/epam/ilya/node_modules/
+src/main/js/node_modules/
